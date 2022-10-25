@@ -2,6 +2,7 @@ package ua.example.test_3
 
 /**
  * 25.10.22
+ * From work
  */
 
 import androidx.appcompat.app.AppCompatActivity
