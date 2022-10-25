@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    tools:background="@color/green">
+    tools:background="@color/green"
+    tools:context="ua.example.test_3.BoxFragment">
 
     <TextView
         android:layout_width="wrap_content"
