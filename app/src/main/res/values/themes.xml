@@ -15,7 +15,5 @@
         <item name="materialButtonStyle">@style/GlobalButtonStyle</item>
     </style>
     
-    <style name="GlobalButtonStyle" parent="Widget.MaterialComponents.Button">
-        <item name="android:minWidth">220dp</item>
-    </style>
+
 </resources>
